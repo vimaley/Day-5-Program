@@ -45,9 +45,11 @@
   <ItemGroup>
     <Compile Include="asopp.cs" />
     <Compile Include="boxndunbox.cs" />
+    <Compile Include="convstrint.cs" />
     <Compile Include="issopp.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vote.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
